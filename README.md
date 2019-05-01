@@ -72,13 +72,13 @@ game-of-life
 <a/>
 </td>
 <td>
-<a href="https://sonarcloud.io/dashboard?id=org.react-test%3Areact-test">
-<image src="https://sonarcloud.io/api/project_badges/measure?project=org.react-test%3Areact-test&metric=alert_status"/>
+<a href="https://sonarcloud.io/dashboard?id=markoniemi%3Areact-test">
+<image src="https://sonarcloud.io/api/project_badges/measure?project=markoniemi%3Areact-test&metric=alert_status"/>
 <a/>
 </td>
 <td>
-<a href="https://sonarcloud.io/dashboard?id=org.react-test%3Areact-test">
-<image src="https://sonarcloud.io/api/project_badges/measure?project=org.react-test%3Areact-test&metric=coverage"/>
+<a href="https://coveralls.io/r/markoniemi/react-test?branch=master">
+<image src="https://img.shields.io/coveralls/markoniemi/react-test/master.svg"/>
 <a/>
 </td>
 <td>
@@ -138,13 +138,13 @@ game-of-life
 <a/>
 </td>
 <td>
-<a href="https://sonarcloud.io/dashboard?id=org.survey%3Amicroservice-example">
-<image src="https://sonarcloud.io/api/project_badges/measure?project=org.survey%3Amicroservice-example&metric=alert_status"/>
+<a href="https://sonarcloud.io/dashboard?id=org.cloud-config%3Amicroservice-example">
+<image src="https://sonarcloud.io/api/project_badges/measure?project=org.cloud-config%3Amicroservice-example&metric=alert_status"/>
 <a/>
 </td>
 <td>
-<a href="https://sonarcloud.io/dashboard?id=org.survey%3Amicroservice-example">
-<image src="https://sonarcloud.io/api/project_badges/measure?project=org.survey%3Amicroservice-example&metric=coverage"/>
+<a href="https://sonarcloud.io/dashboard?id=org.cloud-config%3Amicroservice-example">
+<image src="https://sonarcloud.io/api/project_badges/measure?project=org.cloud-config%3Amicroservice-example&metric=coverage"/>
 <a/>
 </td>
 <td>
@@ -170,13 +170,13 @@ game-of-life
 <a/>
 </td>
 <td>
-<a href="https://sonarcloud.io/dashboard?id=org.survey%3Aexcel-report-example">
-<image src="https://sonarcloud.io/api/project_badges/measure?project=org.survey%3Aexcel-report-example&metric=alert_status"/>
+<a href="https://sonarcloud.io/dashboard?id=org.excel-report-example%3Aexcel-report-example">
+<image src="https://sonarcloud.io/api/project_badges/measure?project=org.excel-report-example%3Aexcel-report-example&metric=alert_status"/>
 <a/>
 </td>
 <td>
-<a href="https://sonarcloud.io/dashboard?id=org.survey%3Aexcel-report-example">
-<image src="https://sonarcloud.io/api/project_badges/measure?project=org.survey%3Aexcel-report-example&metric=coverage"/>
+<a href="https://sonarcloud.io/dashboard?id=org.excel-report-example%3Aexcel-report-example">
+<image src="https://sonarcloud.io/api/project_badges/measure?project=org.excel-report-example%3Aexcel-report-example&metric=coverage"/>
 <a/>
 </td>
 <td>
@@ -202,13 +202,13 @@ game-of-life
 <a/>
 </td>
 <td>
-<a href="https://sonarcloud.io/dashboard?id=org.survey%3Apdf-report">
-<image src="https://sonarcloud.io/api/project_badges/measure?project=org.survey%3Apdf-report&metric=alert_status"/>
+<a href="https://sonarcloud.io/dashboard?id=org.pdf-report%3Apdf-report">
+<image src="https://sonarcloud.io/api/project_badges/measure?project=org.pdf-report%3Apdf-report&metric=alert_status"/>
 <a/>
 </td>
 <td>
-<a href="https://sonarcloud.io/dashboard?id=org.survey%3Apdf-report">
-<image src="https://sonarcloud.io/api/project_badges/measure?project=org.survey%3Apdf-report&metric=coverage"/>
+<a href="https://sonarcloud.io/dashboard?id=org.pdf-report%3Apdf-report">
+<image src="https://sonarcloud.io/api/project_badges/measure?project=org.pdf-report%3Apdf-report&metric=coverage"/>
 <a/>
 </td>
 <td>
@@ -234,13 +234,13 @@ game-of-life
 <a/>
 </td>
 <td>
-<a href="https://sonarcloud.io/dashboard?id=org.survey%3Ajwt-authentication">
-<image src="https://sonarcloud.io/api/project_badges/measure?project=org.survey%3Ajwt-authentication&metric=alert_status"/>
+<a href="https://sonarcloud.io/dashboard?id=org.jwt%3Ajwt-authentication">
+<image src="https://sonarcloud.io/api/project_badges/measure?project=org.jwt%3Ajwt-authentication&metric=alert_status"/>
 <a/>
 </td>
 <td>
-<a href="https://sonarcloud.io/dashboard?id=org.survey%3Ajwt-authentication">
-<image src="https://sonarcloud.io/api/project_badges/measure?project=org.survey%3Ajwt-authentication&metric=coverage"/>
+<a href="https://sonarcloud.io/dashboard?id=org.jwt%3Ajwt-authentication">
+<image src="https://sonarcloud.io/api/project_badges/measure?project=org.jwt%3Ajwt-authentication&metric=coverage"/>
 <a/>
 </td>
 <td>
@@ -266,13 +266,13 @@ game-of-life
 <a/>
 </td>
 <td>
-<a href="https://sonarcloud.io/dashboard?id=org.survey%3Asudoku-solver">
-<image src="https://sonarcloud.io/api/project_badges/measure?project=org.survey%3Asudoku-solver&metric=alert_status"/>
+<a href="https://sonarcloud.io/dashboard?id=com.tieto.sudoku%3Asudoku-solver">
+<image src="https://sonarcloud.io/api/project_badges/measure?project=com.tieto.sudoku%3Asudoku-solver&metric=alert_status"/>
 <a/>
 </td>
 <td>
-<a href="https://sonarcloud.io/dashboard?id=org.survey%3Asudoku-solver">
-<image src="https://sonarcloud.io/api/project_badges/measure?project=org.survey%3Asudoku-solver&metric=coverage"/>
+<a href="https://sonarcloud.io/dashboard?id=com.tieto.sudoku%3Asudoku-solver">
+<image src="https://sonarcloud.io/api/project_badges/measure?project=com.tieto.sudoku%3Asudoku-solver&metric=coverage"/>
 <a/>
 </td>
 <td>
@@ -298,13 +298,13 @@ game-of-life
 <a/>
 </td>
 <td>
-<a href="https://sonarcloud.io/dashboard?id=org.survey%3Aselenium-test-rule">
-<image src="https://sonarcloud.io/api/project_badges/measure?project=org.survey%3Aselenium-test-rule&metric=alert_status"/>
+<a href="https://sonarcloud.io/dashboard?id=org.markoniemi%3Aselenium-test-rule">
+<image src="https://sonarcloud.io/api/project_badges/measure?project=org.markoniemi%3Aselenium-test-rule&metric=alert_status"/>
 <a/>
 </td>
 <td>
-<a href="https://sonarcloud.io/dashboard?id=org.survey%3Aselenium-test-rule">
-<image src="https://sonarcloud.io/api/project_badges/measure?project=org.survey%3Aselenium-test-rule&metric=coverage"/>
+<a href="https://sonarcloud.io/dashboard?id=org.markoniemi%3Aselenium-test-rule">
+<image src="https://sonarcloud.io/api/project_badges/measure?project=org.markoniemi%3Aselenium-test-rule&metric=coverage"/>
 <a/>
 </td>
 <td>
@@ -332,13 +332,13 @@ game-of-life
 <a/>
 </td>
 <td>
-<a href="https://sonarcloud.io/dashboard?id=org.survey%3Acrud-repository-test">
-<image src="https://sonarcloud.io/api/project_badges/measure?project=org.survey%3Acrud-repository-test&metric=alert_status"/>
+<a href="https://sonarcloud.io/dashboard?id=org.repository%3Acrud-repository-test">
+<image src="https://sonarcloud.io/api/project_badges/measure?project=org.repository%3Acrud-repository-test&metric=alert_status"/>
 <a/>
 </td>
 <td>
-<a href="https://sonarcloud.io/dashboard?id=org.survey%3Acrud-repository-test">
-<image src="https://sonarcloud.io/api/project_badges/measure?project=org.survey%3Acrud-repository-test&metric=coverage"/>
+<a href="https://sonarcloud.io/dashboard?id=org.repository%3Acrud-repository-test">
+<image src="https://sonarcloud.io/api/project_badges/measure?project=org.repository%3Acrud-repository-test&metric=coverage"/>
 <a/>
 </td>
 <td>
@@ -364,13 +364,13 @@ game-of-life
 <a/>
 </td>
 <td>
-<a href="https://sonarcloud.io/dashboard?id=org.survey%3Alog-parser">
-<image src="https://sonarcloud.io/api/project_badges/measure?project=org.survey%3Alog-parser&metric=alert_status"/>
+<a href="https://sonarcloud.io/dashboard?id=com.tieto.log-parser%3Alog-parser">
+<image src="https://sonarcloud.io/api/project_badges/measure?project=com.tieto.log-parser%3Alog-parser&metric=alert_status"/>
 <a/>
 </td>
 <td>
-<a href="https://sonarcloud.io/dashboard?id=org.survey%3Alog-parser">
-<image src="https://sonarcloud.io/api/project_badges/measure?project=org.survey%3Alog-parser&metric=coverage"/>
+<a href="https://sonarcloud.io/dashboard?id=com.tieto.log-parser%3Alog-parser">
+<image src="https://sonarcloud.io/api/project_badges/measure?project=com.tieto.log-parser%3Alog-parser&metric=coverage"/>
 <a/>
 </td>
 <td>
