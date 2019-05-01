@@ -57,7 +57,7 @@ game-of-life
 <tr>
 <td><a href="https://github.com/markoniemi/react-test">react-test</a></td>
 <td>
-<a href="https://dev.azure.com/markoniemi0275/markoniemi/_build/latest?definitionId=4&branchName=master">
+<a href="https://dev.azure.com/markoniemi0275/markoniemi/_build/latest?definitionId=12&branchName=master">
 <image src="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.react-test?branchName=master"/>
 </a>
 </td>
