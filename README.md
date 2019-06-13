@@ -315,10 +315,8 @@ game-of-life
 <tr>
 <td><a href="https://github.com/markoniemi/crud-repository-test">crud-repository-test</a></td>
 <td>
-<!--
-<a href="https://dev.azure.com/markoniemi0275/markoniemi/_build/latest?definitionId=4&branchName=master">
+<a href="https://dev.azure.com/markoniemi0275/markoniemi/_build/latest?definitionId=14&branchName=master">
 <image src="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.crud-repository-test?branchName=master"/>
--->
 </a>
 </td>
 <td>
