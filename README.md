@@ -25,7 +25,7 @@ game-of-life
 <tr>
 <td><a href="https://github.com/markoniemi/survey">survey</a></td>
 <td>
-<a href="https://dev.azure.com/markoniemi0275/markoniemi/_build/latest?definitionId=3&branchName=master">
+<a href="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.survey?branchName=master">
 <image src="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.survey?branchName=master"/>
 </a>
 </td>
@@ -57,7 +57,7 @@ game-of-life
 <tr>
 <td><a href="https://github.com/markoniemi/react-test">react-test</a></td>
 <td>
-<a href="https://dev.azure.com/markoniemi0275/markoniemi/_build/latest?definitionId=12&branchName=master">
+<a href="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.survey?branchName=master">
 <image src="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.react-test?branchName=master"/>
 </a>
 </td>
@@ -89,7 +89,7 @@ game-of-life
 <tr>
 <td><a href="https://github.com/markoniemi/spring-boot-test">spring-boot-test</a></td>
 <td>
-<a href="https://dev.azure.com/markoniemi0275/markoniemi/_build/latest?definitionId=4&branchName=master">
+<a href="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.survey?branchName=master">
 <image src="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.spring-boot-test?branchName=master"/>
 </a>
 </td>
@@ -121,7 +121,7 @@ game-of-life
 <tr>
 <td><a href="https://github.com/markoniemi/microservice-example">microservice-example</a></td>
 <td>
-<a href="https://dev.azure.com/markoniemi0275/markoniemi/_build/latest?definitionId=8&branchName=master">
+<a href="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.survey?branchName=master">
 <image src="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.microservice-example?branchName=master"/>
 </a>
 </td>
@@ -155,7 +155,7 @@ game-of-life
 <tr>
 <td><a href="https://github.com/markoniemi/excel-report-example">excel-report-example</a></td>
 <td>
-<a href="https://dev.azure.com/markoniemi0275/markoniemi/_build/latest?definitionId=1&branchName=master">
+<a href="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.survey?branchName=master">
 <image src="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.excel-report-example?branchName=master"/>
 </a>
 </td>
@@ -187,7 +187,7 @@ game-of-life
 <tr>
 <td><a href="https://github.com/markoniemi/pdf-report">pdf-report</a></td>
 <td>
-<a href="https://dev.azure.com/markoniemi0275/markoniemi/_build/latest?definitionId=2&branchName=master">
+<a href="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.survey?branchName=master">
 <image src="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.pdf-report?branchName=master"/>
 </a>
 </td>
@@ -219,7 +219,7 @@ game-of-life
 <tr>
 <td><a href="https://github.com/markoniemi/jwt-authentication">jwt-authentication</a></td>
 <td>
-<a href="https://dev.azure.com/markoniemi0275/markoniemi/_build/latest?definitionId=11&branchName=master">
+<a href="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.survey?branchName=master">
 <image src="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.jwt-authentication?branchName=master"/>
 </a>
 </td>
@@ -251,7 +251,7 @@ game-of-life
 <tr>
 <td><a href="https://github.com/markoniemi/sudoku-solver">sudoku-solver</a></td>
 <td>
-<a href="https://dev.azure.com/markoniemi0275/markoniemi/_build/latest?definitionId=10&branchName=master">
+<a href="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.survey?branchName=master">
 <image src="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.sudoku-solver?branchName=master"/>
 </a>
 </td>
@@ -283,7 +283,7 @@ game-of-life
 <tr>
 <td><a href="https://github.com/markoniemi/selenium-test-rule">selenium-test-rule</a></td>
 <td>
-<a href="https://dev.azure.com/markoniemi0275/markoniemi/_build/latest?definitionId=5&branchName=master">
+<a href="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.survey?branchName=master">
 <image src="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.selenium-test-rule?branchName=master"/>
 </a>
 </td>
@@ -315,7 +315,7 @@ game-of-life
 <tr>
 <td><a href="https://github.com/markoniemi/crud-repository-test">crud-repository-test</a></td>
 <td>
-<a href="https://dev.azure.com/markoniemi0275/markoniemi/_build/latest?definitionId=14&branchName=master">
+<a href="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.survey?branchName=master">
 <image src="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.crud-repository-test?branchName=master"/>
 </a>
 </td>
@@ -347,7 +347,7 @@ game-of-life
 <tr>
 <td><a href="https://github.com/markoniemi/log-parser">log-parser</a></td>
 <td>
-<a href="https://dev.azure.com/markoniemi0275/markoniemi/_build/latest?definitionId=9&branchName=master">
+<a href="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.survey?branchName=master">
 <image src="https://dev.azure.com/markoniemi0275/markoniemi/_apis/build/status/markoniemi.log-parser?branchName=master"/>
 </a>
 </td>
@@ -377,4 +377,3 @@ game-of-life
 </td>
 </tr>
 </table>
-
