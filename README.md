@@ -251,7 +251,7 @@ game-of-life
 <tr>
 <td><a href="https://github.com/markoniemi/sudoku-solver">sudoku-solver</a></td>
 <td>
-<a href="https://dev.azure.com/markoniemi/markoniemi/_apis/build/status/markoniemi.sudoku-solver?branchName=master>
+<a href="https://dev.azure.com/markoniemi/markoniemi/_apis/build/status/markoniemi.sudoku-solver?branchName=master">
 <image src="https://dev.azure.com/markoniemi/markoniemi/_apis/build/status/markoniemi.sudoku-solver?branchName=master"/>
 </a>
 </td>
