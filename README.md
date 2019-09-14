@@ -31,7 +31,7 @@ game-of-life
 </td>
 <td>
 <a href="https://github.com/markoniemi/survey/actions">
-<image src="https://github.com/markoniemi/survey/workflows/main/badge.svg"/>
+<image src="https://github.com/markoniemi/survey/workflows/Build/badge.svg"/>
 <a/>
 </td>
 <td>
@@ -68,7 +68,7 @@ game-of-life
 </td>
 <td>
 <a href="https://github.com/markoniemi/react-test/actions">
-<image src="https://github.com/markoniemi/react-test/workflows/main/badge.svg"/>
+<image src="https://github.com/markoniemi/react-test/workflows/Build/badge.svg"/>
 <a/>
 </td>
 <td>
@@ -105,7 +105,7 @@ game-of-life
 </td>
 <td>
 <a href="https://github.com/markoniemi/spring-boot-test/actions">
-<image src="https://github.com/markoniemi/spring-boot-test/workflows/main/badge.svg"/>
+<image src="https://github.com/markoniemi/spring-boot-test/workflows/Build/badge.svg"/>
 <a/>
 </td>
 <td>
@@ -142,7 +142,7 @@ game-of-life
 </td>
 <td>
 <a href="https://github.com/markoniemi/microservice-example/actions">
-<image src="https://github.com/markoniemi/microservice-example/workflows/main/badge.svg"/>
+<image src="https://github.com/markoniemi/microservice-example/workflows/Build/badge.svg"/>
 <a/>
 </td>
 <td>
@@ -181,7 +181,7 @@ game-of-life
 </td>
 <td>
 <a href="https://github.com/markoniemi/excel-report-example/actions">
-<image src="https://github.com/markoniemi/excel-report-example/workflows/main/badge.svg"/>
+<image src="https://github.com/markoniemi/excel-report-example/workflows/Build/badge.svg"/>
 <a/>
 </td>
 <td>
@@ -217,7 +217,7 @@ game-of-life
 </a>
 <td>
 <a href="https://github.com/markoniemi/pdf-report/actions">
-<image src="https://github.com/markoniemi/pdf-report/workflows/main/badge.svg"/>
+<image src="https://github.com/markoniemi/pdf-report/workflows/Build/badge.svg"/>
 <a/>
 </td>
 </td>
@@ -255,7 +255,7 @@ game-of-life
 </td>
 <td>
 <a href="https://github.com/markoniemi/jwt-authentication/actions">
-<image src="https://github.com/markoniemi/jwt-authentication/workflows/main/badge.svg"/>
+<image src="https://github.com/markoniemi/jwt-authentication/workflows/Build/badge.svg"/>
 <a/>
 </td>
 <td>
@@ -292,7 +292,7 @@ game-of-life
 </td>
 <td>
 <a href="https://github.com/markoniemi/sudoku-solver/actions">
-<image src="https://github.com/markoniemi/sudoku-solver/workflows/main/badge.svg"/>
+<image src="https://github.com/markoniemi/sudoku-solver/workflows/Build/badge.svg"/>
 <a/>
 </td>
 <td>
@@ -329,7 +329,7 @@ game-of-life
 </td>
 <td>
 <a href="https://github.com/markoniemi/selenium-test-rule/actions">
-<image src="https://github.com/markoniemi/selenium-test-rule/workflows/main/badge.svg"/>
+<image src="https://github.com/markoniemi/selenium-test-rule/workflows/Build/badge.svg"/>
 <a/>
 </td>
 <td>
@@ -366,7 +366,7 @@ game-of-life
 </td>
 <td>
 <a href="https://github.com/markoniemi/crud-repository-test/actions">
-<image src="https://github.com/markoniemi/crud-repository-test/workflows/main/badge.svg"/>
+<image src="https://github.com/markoniemi/crud-repository-test/workflows/Build/badge.svg"/>
 <a/>
 </td>
 <td>
@@ -403,7 +403,7 @@ game-of-life
 </td>
 <td>
 <a href="https://github.com/markoniemi/log-parser/actions">
-<image src="https://github.com/markoniemi/log-parser/workflows/main/badge.svg"/>
+<image src="https://github.com/markoniemi/log-parser/workflows/Build/badge.svg"/>
 <a/>
 </td>
 <td>
