@@ -20,7 +20,7 @@ game-of-life
 
 <table>
 <thead>
-<td>project</td><td>Azure</td><td>CircleCI</td><td>TravisCI</td><td>SonarCloud</td><td>Coverage</td><td>Snyk</td>
+<td>project</td><td>Azure</td><td>GitHub actions</td><td>CircleCI</td><td>TravisCI</td><td>SonarCloud</td><td>Coverage</td><td>Snyk</td>
 </thead>
 <tr>
 <td><a href="https://github.com/markoniemi/survey">survey</a></td>
@@ -28,6 +28,11 @@ game-of-life
 <a href="https://dev.azure.com/markoniemi/markoniemi/_apis/build/status/markoniemi.survey?branchName=master">
 <image src="https://dev.azure.com/markoniemi/markoniemi/_apis/build/status/markoniemi.survey?branchName=master"/>
 </a>
+</td>
+<td>
+<a href="https://github.com/markoniemi/survey/actions">
+<image src="https://github.com/markoniemi/survey/workflows/main/badge.svg"/>
+<a/>
 </td>
 <td>
 <a href="https://circleci.com/gh/markoniemi/survey">
@@ -62,6 +67,11 @@ game-of-life
 </a>
 </td>
 <td>
+<a href="https://github.com/markoniemi/react-test/actions">
+<image src="https://github.com/markoniemi/react-test/workflows/main/badge.svg"/>
+<a/>
+</td>
+<td>
 <a href="https://circleci.com/gh/markoniemi/react-test">
 <image src="https://circleci.com/gh/markoniemi/react-test.svg?style=svg"/>
 <a/>
@@ -94,6 +104,11 @@ game-of-life
 </a>
 </td>
 <td>
+<a href="https://github.com/markoniemi/spring-boot-test/actions">
+<image src="https://github.com/markoniemi/spring-boot-test/workflows/main/badge.svg"/>
+<a/>
+</td>
+<td>
 <a href="https://circleci.com/gh/markoniemi/spring-boot-test">
 <image src="https://circleci.com/gh/markoniemi/spring-boot-test.svg?style=svg"/>
 <a/>
@@ -124,6 +139,11 @@ game-of-life
 <a href="https://dev.azure.com/markoniemi/markoniemi/_apis/build/status/markoniemi.survey?branchName=master">
 <image src="https://dev.azure.com/markoniemi/markoniemi/_apis/build/status/markoniemi.microservice-example?branchName=master"/>
 </a>
+</td>
+<td>
+<a href="https://github.com/markoniemi/microservice-example/actions">
+<image src="https://github.com/markoniemi/microservice-example/workflows/main/badge.svg"/>
+<a/>
 </td>
 <td>
 <!--
@@ -160,6 +180,11 @@ game-of-life
 </a>
 </td>
 <td>
+<a href="https://github.com/markoniemi/excel-report-example/actions">
+<image src="https://github.com/markoniemi/excel-report-example/workflows/main/badge.svg"/>
+<a/>
+</td>
+<td>
 <a href="https://circleci.com/gh/markoniemi/excel-report-example">
 <image src="https://circleci.com/gh/markoniemi/excel-report-example.svg?style=svg"/>
 <a/>
@@ -190,6 +215,11 @@ game-of-life
 <a href="https://dev.azure.com/markoniemi/markoniemi/_apis/build/status/markoniemi.survey?branchName=master">
 <image src="https://dev.azure.com/markoniemi/markoniemi/_apis/build/status/markoniemi.pdf-report?branchName=master"/>
 </a>
+<td>
+<a href="https://github.com/markoniemi/pdf-report/actions">
+<image src="https://github.com/markoniemi/pdf-report/workflows/main/badge.svg"/>
+<a/>
+</td>
 </td>
 <td>
 <a href="https://circleci.com/gh/markoniemi/pdf-report">
@@ -224,6 +254,11 @@ game-of-life
 </a>
 </td>
 <td>
+<a href="https://github.com/markoniemi/jwt-authentication/actions">
+<image src="https://github.com/markoniemi/jwt-authentication/workflows/main/badge.svg"/>
+<a/>
+</td>
+<td>
 <a href="https://circleci.com/gh/markoniemi/jwt-authentication">
 <image src="https://circleci.com/gh/markoniemi/jwt-authentication.svg?style=svg"/>
 <a/>
@@ -254,6 +289,11 @@ game-of-life
 <a href="https://dev.azure.com/markoniemi/markoniemi/_apis/build/status/markoniemi.sudoku-solver?branchName=master">
 <image src="https://dev.azure.com/markoniemi/markoniemi/_apis/build/status/markoniemi.sudoku-solver?branchName=master"/>
 </a>
+</td>
+<td>
+<a href="https://github.com/markoniemi/sudoku-solver/actions">
+<image src="https://github.com/markoniemi/sudoku-solver/workflows/main/badge.svg"/>
+<a/>
 </td>
 <td>
 <a href="https://circleci.com/gh/markoniemi/sudoku-solver">
@@ -288,6 +328,11 @@ game-of-life
 </a>
 </td>
 <td>
+<a href="https://github.com/markoniemi/selenium-test-rule/actions">
+<image src="https://github.com/markoniemi/selenium-test-rule/workflows/main/badge.svg"/>
+<a/>
+</td>
+<td>
 <a href="https://circleci.com/gh/markoniemi/selenium-test-rule">
 <image src="https://circleci.com/gh/markoniemi/selenium-test-rule.svg?style=svg"/>
 <a/>
@@ -320,6 +365,11 @@ game-of-life
 </a>
 </td>
 <td>
+<a href="https://github.com/markoniemi/crud-repository-test/actions">
+<image src="https://github.com/markoniemi/crud-repository-test/workflows/main/badge.svg"/>
+<a/>
+</td>
+<td>
 <a href="https://circleci.com/gh/markoniemi/crud-repository-test">
 <image src="https://circleci.com/gh/markoniemi/crud-repository-test.svg?style=svg"/>
 <a/>
@@ -350,6 +400,11 @@ game-of-life
 <a href="https://dev.azure.com/markoniemi/markoniemi/_apis/build/status/markoniemi.survey?branchName=master">
 <image src="https://dev.azure.com/markoniemi/markoniemi/_apis/build/status/markoniemi.log-parser?branchName=master"/>
 </a>
+</td>
+<td>
+<a href="https://github.com/markoniemi/log-parser/actions">
+<image src="https://github.com/markoniemi/log-parser/workflows/main/badge.svg"/>
+<a/>
 </td>
 <td>
 <a href="https://circleci.com/gh/markoniemi/log-parser">
