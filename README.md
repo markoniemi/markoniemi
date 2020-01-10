@@ -1,6 +1,7 @@
 # markoniemi repository status
 
 <!--
+spring-boot-react-demo
 survey
 react-test
 spring-boot-test
@@ -22,6 +23,43 @@ game-of-life
 <thead>
 <td>project</td><td>Azure</td><td>GitHub actions</td><td>CircleCI</td><td>TravisCI</td><td>SonarCloud</td><td>Coverage</td><td>Snyk</td>
 </thead>
+<tr>
+<td><a href="https://github.com/markoniemi/spring-boot-react-demo">spring-boot-react-demo</a></td>
+<td>
+<a href="https://dev.azure.com/markoniemi/markoniemi/_apis/build/status/markoniemi.spring-boot-react-demo?branchName=master">
+<image src="https://dev.azure.com/markoniemi/markoniemi/_apis/build/status/markoniemi.spring-boot-react-demo?branchName=master"/>
+</a>
+</td>
+<td>
+<a href="https://github.com/markoniemi/spring-boot-react-demo/actions">
+<image src="https://github.com/markoniemi/spring-boot-react-demo/workflows/Build/badge.svg"/>
+<a/>
+</td>
+<td>
+<a href="https://circleci.com/gh/markoniemi/spring-boot-react-demo">
+<image src="https://circleci.com/gh/markoniemi/spring-boot-react-demo.svg?style=svg"/>
+<a/>
+</td>
+<td>
+<a href="https://travis-ci.org/markoniemi/spring-boot-react-demo">
+<image src="https://travis-ci.org/markoniemi/spring-boot-react-demo.svg?branch=master"/>
+<a/>
+</td>
+<td>
+<a href="https://sonarcloud.io/dashboard?id=org.spring-boot-react-demo%3Aspring-boot-react-demo">
+<image src="https://sonarcloud.io/api/project_badges/measure?project=org.spring-boot-react-demo%3Aspring-boot-react-demo&metric=alert_status"/>
+<a/>
+</td>
+<td>
+<a href="https://sonarcloud.io/dashboard?id=org.spring-boot-react-demo%3Aspring-boot-react-demo">
+<image src="https://sonarcloud.io/api/project_badges/measure?project=org.spring-boot-react-demo%3Aspring-boot-react-demo&metric=coverage"/>
+<a/>
+</td>
+<td>
+<a href="https://snyk.io/test/github/markoniemi/spring-boot-react-demo">
+<image src="https://snyk.io/test/github/markoniemi/spring-boot-react-demo/badge.svg"/>
+</td>
+</tr>
 <tr>
 <td><a href="https://github.com/markoniemi/survey">survey</a></td>
 <td>
